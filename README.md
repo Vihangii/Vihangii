@@ -16,7 +16,6 @@
 - 🎓 3rd-year **BSc (Hons) Data Science** undergraduate — University of Plymouth (NSBM Green University), Sri Lanka
 - 📊 I enjoy turning raw data into clear dashboards, forecasts and insights
 - 🤖 Currently exploring **LLMs, Generative AI and small language models**
-- 🔭 Working on my final year project: **AI 2035** — energy-aware small-model routing for everyday AI writing tasks, with 2026–2035 scenario forecasting
 - 🌱 Open to **Data Science, Data Analytics and AI/ML internships**
 - 📫 Reach me: **vihangiyapa01@gmail.com**
 
@@ -65,7 +64,6 @@
 | 📊 **Sales & Customer Analytics Dashboard** | End-to-end BI project: cleaned 9,800 retail sales records, built a star schema in SQL Server and a 5-page Power BI report with RFM customer segmentation in DAX | Python, Pandas, SQL Server, Power BI, DAX |
 | 🤖 **Multi-Agent AI Business Consultant** | Five AI agents (Data, Forecast, Anomaly, Strategist, Critic) that analyse business data, forecast sales with Prophet and generate fact-checked recommendations | Python, FastAPI, Streamlit, Prophet, OpenAI |
 | 🌍 **World Pulse** *(group project)* | Crisis intelligence platform — I built the ML models, analytics modules, NLP integration, API endpoints and MongoDB work | Python, NLP, MongoDB, REST APIs |
-| ⚡ **AI 2035** *(final year project — in progress)* | Fine-tuned small language model + router that sends simple writing tasks to the small model to cut energy use, with 2026–2035 scenario forecasts and a sustainability dashboard | Python, PyTorch, Streamlit, LLMs |
 | 🧠 **LLM Practical Portfolio** | Hands-on labs in LLMs & Generative AI, including a tiny Transformer language model trained on TinyStories | Python, PyTorch, Transformers |
 | 💬 **Sentiment Analysis** | Neural network that classifies review sentiment | Python, Keras, TensorFlow |
 | 👥 **Employee Attrition Analysis** *(group project)* | Analysis of employee attrition and performance drivers | R, ggplot2 |
